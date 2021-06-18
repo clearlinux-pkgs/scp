@@ -1,5 +1,5 @@
 PKG_NAME := scp
-URL = https://files.pythonhosted.org/packages/05/e0/ac4169e773e12a08d941ca3c006cb8c91bee9d6d80328a15af850b5e7480/scp-0.13.2.tar.gz
+URL = https://files.pythonhosted.org/packages/78/ab/3c8a6160786eff8032deb55b72fa4e74484e9a5723510475395baeaa64cc/scp-0.13.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
